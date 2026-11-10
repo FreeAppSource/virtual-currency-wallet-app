@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Virtual Currency Wallet App",
+    "slug": "virtual-wallet",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#7C3AED"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "virtualwallet"
+  }
+}
